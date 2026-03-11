@@ -1,0 +1,11 @@
+﻿input_text,hf_sentiment_label,hf_sentiment_score,hf_zeroshot_label,hf_zeroshot_score,hf_ner_entity,groq_summary,airtable_record_id
+Unauthorized login from IP 198.51.100.4 traced to Moscow targeting user John Miller at 3:47 AM,NEGATIVE,1.0,possible anomaly,0.9,{},"HIGH
+The unauthorized login at 3:47 AM targeting a specific user suggests a potential targeted attack, warranting a high level of concern.",recE6WwwcZO7k2GZp
+Routine firewall rule update completed on fw-01 during scheduled maintenance window,NEGATIVE,1.0,routine activity,1.0,{},"INFORMATIONAL
+
+This alert is informational as it indicates a routine, expected system maintenance activity that did not result in any identified security incidents or issues.",rec9LSSuJNbK6LVUg
+Phishing email with spoofed Amazon domain detected targeting finance@acmecorp.com,NEGATIVE,1.0,possible anomaly,0.8,{},"HIGH. The alert is HIGH because the phishing email targets a specific employee with access to sensitive financial information, suggesting a potentially lucrative and malicious intent.",recdtkYxgGVnP2My1
+Multiple failed SSH attempts from Beijing IP on Cloudflare production server — 47 attempts in 5 minutes,NEGATIVE,1.0,possible anomaly,0.8,{},"HIGH: This alert indicates a high level of suspicious activity, suggesting a potential brute-force attack on the Cloudflare production server.",recMqmWgyuUfOmwn5
+System resource utilization normal across all monitored hosts — no anomalies detected,NEGATIVE,1.0,routine activity,1.0,{},"INFORMATIONAL
+
+The lack of detected anomalies or resource utilization normalcy has no immediate urgency or potential security risks associated with it.",recAa7a8RDV6VAGJZ
